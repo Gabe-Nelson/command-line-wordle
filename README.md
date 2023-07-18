@@ -34,6 +34,15 @@ The following features were added to [JacobLower3's](https://replit.com/@JacobLo
 
 ## Documentation
 
+* [Home](https://github.com/Gabe-Nelson/command-line-wordle/wiki)
+* [How to Play](https://github.com/Gabe-Nelson/command-line-wordle/wiki/Playing-the-Game)
+* [Resetting the Game](https://github.com/Gabe-Nelson/command-line-wordle/wiki/full_game_reset)
+* [Adding New Wordsets](https://github.com/Gabe-Nelson/command-line-wordle/wiki/Adding-New-Wordsets)
+* [Main Documentation](https://github.com/Gabe-Nelson/command-line-wordle/wiki/Main-Documentation)
+    - [Alphabet Class](https://github.com/Gabe-Nelson/command-line-wordle/wiki/Main-Documentation#alphabet-class)
+    - [Wordset Class](https://github.com/Gabe-Nelson/command-line-wordle/wiki/Main-Documentation#wordset-class)
+    - [Function Definitions](https://github.com/Gabe-Nelson/command-line-wordle/wiki/Main-Documentation#function-definitions)
+
 
 ## License
 
